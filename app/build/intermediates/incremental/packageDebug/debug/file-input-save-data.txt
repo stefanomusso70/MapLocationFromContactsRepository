@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Nov 08 21:37:05 CET 2017
+2.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/16
+5.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex
+5.set=DEX
+3.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/res/debug/resources-debug.ap_
+6.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/res/debug/resources-debug.ap_/AndroidManifest.xml
+2.set=DEX
+4.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/15
+7.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex
+7.set=DEX
+count=10
+0.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex
+5.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/12
+8.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex
+4.set=DEX
+6.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/res/debug/resources-debug.ap_
+1.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/res/debug/resources-debug.ap_/resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/main.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/11
+2.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/14
+8.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/13
+3.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/res/debug/resources-debug.ap_
+9.base=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/res/debug/resources-debug.ap_
+4.file=/Users/musso/StudioProjects/MapLocationFromContacts/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex
+8.set=DEX
+0.set=DEX
